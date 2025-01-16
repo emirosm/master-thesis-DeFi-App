@@ -1,5 +1,5 @@
 :root {
-  --background: #1B1D29;
+  --background: #1b1d29;
   --foreground: #ededed;
 }
 
@@ -124,7 +124,7 @@ main .listings h1 {
 .tokens p {
   grid-column: 1 / -1;
   font-family: "Arial";
-  font-size: 1.50rem;
+  font-size: 1.5rem;
 }
 
 .token {
@@ -182,7 +182,7 @@ main .listings h1 {
 }
 
 .token__details .name {
-  font-size: 1.40rem;
+  font-size: 1.4rem;
 }
 
 /* CREATE TOKEN FORM */
@@ -205,7 +205,7 @@ main .listings h1 {
 
 .list__description {
   font-family: "Arial";
-  font-size: 1.10rem;
+  font-size: 1.1rem;
   font-weight: 400;
   text-transform: lowercase;
   padding: 1em 0 0;
@@ -226,7 +226,7 @@ main .listings h1 {
   border: none;
 
   width: 200px;
-  padding: 1.50em;
+  padding: 1.5em;
   border-radius: 6px;
 }
 
@@ -249,12 +249,12 @@ main .listings h1 {
 
 .trade p {
   font-family: "Arial";
-  font-size: 1.10rem;
+  font-size: 1.1rem;
   text-transform: lowercase;
 }
 
 .trade .disclaimer {
-  font-size: 1.50rem;
+  font-size: 1.5rem;
   font-weight: bold;
   padding: 2em;
 }
@@ -274,6 +274,6 @@ main .listings h1 {
   border: none;
 
   width: 200px;
-  padding: 1.50em;
+  padding: 1.5em;
   border-radius: 6px;
 }
